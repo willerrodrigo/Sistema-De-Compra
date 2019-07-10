@@ -1,4 +1,4 @@
-## Dados para o login do gerente:
+## Dados para o login do gerente: 
 
-Usuário: adm
+Usuário: adm  
 Senha: 123
